@@ -1,4 +1,4 @@
-- Hi  , I'm Kunal gupta, A passionate frontend developer from India.
+- Hi  , I'm Kunal Gupta, A passionate frontend developer from India.
 - 🌱Tech & Tool:- React.js, Redux, Express.j,s MongoDB, Node.js, JavaScript, SASS, CSS3, HTML,5 MongoDB, Git, Github
 - 📫 How to reach me ...
 - Github:- https://github.com/imkunalgupta
